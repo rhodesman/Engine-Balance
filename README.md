@@ -1,6 +1,6 @@
 # Engine Balance
 
-Enngine Balance is a simple application for inputing the weights of engine components and outputting the best pairings of components with similar total weight
+Engine Balance is a simple application for inputing the weights of engine components and outputting the best pairings of components with similar total weight
 
 ## Install Prerequisites
 
